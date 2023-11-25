@@ -1,0 +1,119 @@
+.header{
+    background-color: rgb(68, 93, 156);
+    padding: 25px;
+    
+}.container1{
+    width: 100%;
+    background-color: rgb(7,41,126) ;
+}
+
+.header2{
+    background-color: rgb(7, 41, 126);
+    height: 1000px;
+    color: white;
+}
+.allpage{
+    background-color: rgb(7, 41, 126);
+    
+    
+}
+.allpage, li{
+    margin-left: 70px;
+}
+.allpage li, a{
+   color: white;
+}
+
+
+.larger{
+    margin-top: 250px;
+    padding-left: 200px;
+    
+}
+.text{
+    font-size: 60px;
+}
+.btn1{
+    background-color: rgb(128, 218, 128);
+    color: white;
+    width: 160p;
+    height: 50px;
+    border-radius: 5px;
+    margin: 30px;
+}
+.header3{
+    text-align: center;
+    padding: 50px;
+    
+}
+.jumbo{  
+    border-radius: 20px;
+    background-color: rgb(35, 35, 143);
+    color: white;
+    text-align: center;
+    height: 400px;
+    width: 1300px;
+    padding: 20px;
+    margin-bottom: 40px;
+    
+}
+
+    
+.about{
+    padding: 10px;
+       
+}
+
+.btn2{
+    background-color:rgb(59, 53, 124);
+    color: white;
+    height: 50px;
+    width: 160px;
+    border-radius: 5px;
+}
+.lite{
+    margin-top: 30px;
+    margin: auto;
+    
+}
+.btn3{
+    background-color: rgb(128, 218, 128);
+    color: white;
+    height: 50px;
+    width: 160px;
+    border-radius: 5px;
+    margin: 30px;
+    margin: auto;
+}
+.lite1{
+    text-align: center;
+}
+.last{
+    background-image: url(/IMAGES/common-bg.jpg);
+    margin-top:150px;
+    padding: 100px;
+    padding-left: 200px;
+}
+
+
+.secure{
+    padding-top: 200px;
+    color: white;
+}
+.btn5{
+    background-color: rgb(128, 218, 128);
+    color: white;
+    width: 160px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .container1 {background: red;}
+    
+   
+  }
+  
+
+
